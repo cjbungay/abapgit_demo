@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZHELLO_WORLD.
 
-message 'Hello World!' type 'I'.
+write: /'Hello World'.
