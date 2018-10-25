@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZHELLO_WORLD.
 
-write: /'Hello World'.
+write: /'Hello World again'.
